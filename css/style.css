@@ -1,0 +1,18 @@
+* {box-sizing:border-box;}
+.container {background-color: #3A98C4;}
+
+#submit-btn{
+    margin-top: 20px;
+}
+
+.spacer{
+    height: 40px;
+}
+
+#output{
+    padding-left: 20px;
+}
+
+.panel{
+    padding-bottom:10px;
+}
